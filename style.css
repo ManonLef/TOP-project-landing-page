@@ -115,7 +115,7 @@ h2 {
 /* section 3 */
 .three {
     background-color: #E5E7Eb;
-    padding: 100px;
+    padding: 100px 150px;
 }
 
 .quote-container {
@@ -123,6 +123,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     gap: 5px;
+    
 }
 
 .quote {

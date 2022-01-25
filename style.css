@@ -91,6 +91,7 @@ h2 {
     padding: 30px;
     font-size: 36px;
     font-weight: 900;
+    color: #1F2937;
 }
 
 .image-container {
@@ -111,9 +112,15 @@ h2 {
     border: 3px solid #3882F6;
     border-radius: 10px;
 }
-
 /* section 3 */
+.three {
+    background-color: #E5E7Eb;
+    padding: 150px 300px;
+}
 
+.quote {
+    
+}
 /* section 4 */
 
 /* footer */

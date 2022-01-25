@@ -20,14 +20,12 @@ body {
 
     background-color: #1F2937;
     color: white;
-    padding: 10px 150px;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-
-    margin-bottom: 100px;
+    padding: 10px 100px;
 }
 
 ul {
@@ -38,6 +36,12 @@ ul {
 
 .hero-container {
     display: flex;
+    margin: 100px;
+}
+
+.awesome h1 {
+    font-weight: bolder;
+    font-size: 48px;
 }
 
 .awesome {

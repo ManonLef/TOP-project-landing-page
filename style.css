@@ -115,15 +115,14 @@ h2 {
 /* section 3 */
 .three {
     background-color: #E5E7Eb;
-    padding: 150px 350px;
-    
+    padding: 100px;
 }
 
 .quote-container {
     display: flex;
-    width: 800px;
     flex-direction: column;
-    align-items: flex-end;
+    justify-content: center;
+    gap: 5px;
 }
 
 .quote {
@@ -131,6 +130,11 @@ h2 {
     font-style: italic;
     font-weight: 300;
     color: #1F2937;
+}
+
+.sign-cont {
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .sign {

@@ -7,4 +7,12 @@ body {
     display: flex;
     flex-direction: column;
 }
+/* top section */
+.one {
+    display: flex;
+    flex-direction: column;
+    
+    background-color: #1F2937;
+    color: white;
+}
 

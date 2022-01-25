@@ -13,6 +13,15 @@ body {
 .main-content {
     flex: 1;
 }
+
+button {
+    background-color: #3882F6;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: white;
+}
+
 /* top section */
 .one {
     display: flex;
@@ -37,6 +46,9 @@ ul {
     list-style: none;
     display: flex;
     gap: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #E5E7EB;
 }
 
 .hero-container {
@@ -64,6 +76,8 @@ ul {
     font-weight: 300;
     color: #E5E7EB;
 }
+
+
 
 
 /* section 2 */

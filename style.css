@@ -29,7 +29,6 @@ button {
     flex-direction: column;
 
     background-color: #1F2937;
-    color: white;
 }
 
 .header {
@@ -79,3 +78,17 @@ ul {
 }
 /* section 2 */
 
+/* section 3 */
+
+/* section 4 */
+
+/* footer */
+
+footer {
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 30px;
+}

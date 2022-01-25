@@ -21,3 +21,8 @@ body {
     justify-content: space-between;
 }
 
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}

@@ -65,7 +65,7 @@ ul {
     margin-right: 30px;
 }
 
-.awesome h1 {
+h1 {
     font-weight: bold;
     font-size: 48px;
     color: #f9faf8;
@@ -77,6 +77,19 @@ ul {
     color: #E5E7EB;
 }
 /* section 2 */
+
+.two {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    text-align: center;
+    padding: 30px;
+}
+
+
+
 
 /* section 3 */
 

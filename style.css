@@ -57,7 +57,10 @@ ul {
 }
 
 .hero {
-    flex: 1;
+    flex: 1 1 auto;
+    background-color: grey;
+    max-width: 900px;
+    max-height: 600px;
 }
 
 .awesome {
@@ -90,13 +93,14 @@ h2 {
 
 .image-container {
     display: flex;
-    gap: 30px;
+    gap: 50px;
     justify-content: center;
     margin-bottom: 80px;
 }
 
 .image-and-text {
     width: 150px;
+    text-align: center;
 }
 
 .image {

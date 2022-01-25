@@ -20,6 +20,7 @@ button {
     padding: 5px 15px;
     border-radius: 3px;
     color: white;
+    margin-top: 10px;
 }
 
 /* top section */
@@ -76,9 +77,5 @@ ul {
     font-weight: 300;
     color: #E5E7EB;
 }
-
-
-
-
 /* section 2 */
 

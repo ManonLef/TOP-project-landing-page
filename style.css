@@ -135,12 +135,10 @@ h2 {
 .sign-cont {
     display: flex;
     flex-direction: row-reverse;
-}
-
-.sign {
     font-size: 24px;
     font-weight: 600;
 }
+
 /* section 4 */
 
 /* footer */

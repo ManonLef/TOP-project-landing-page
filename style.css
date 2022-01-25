@@ -6,6 +6,12 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+}
+
+.main-content {
+    flex: 1;
 }
 /* top section */
 .one {
@@ -20,6 +26,8 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+
+    margin-bottom: 100px;
 }
 
 ul {
@@ -27,3 +35,19 @@ ul {
     display: flex;
     gap: 20px;
 }
+
+.hero-container {
+    display: flex;
+}
+
+.awesome {
+    flex: 1;
+    margin-right: 30px;
+}
+
+.hero {
+    flex: 1;
+}
+
+/* section 2 */
+

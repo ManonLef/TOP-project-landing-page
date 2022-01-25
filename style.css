@@ -91,6 +91,8 @@ h2 {
 .image-container {
     display: flex;
     gap: 30px;
+    justify-content: center;
+    margin-bottom: 80px;
 }
 
 .image-and-text {

@@ -116,11 +116,15 @@ h2 {
 .three {
     background-color: #E5E7Eb;
     padding: 150px 350px;
+    
+}
+
+.quote-container {
     display: flex;
+    width: 800px;
     flex-direction: column;
     align-items: flex-end;
 }
-
 
 .quote {
     font-size: 36px;

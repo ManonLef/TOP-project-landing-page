@@ -149,6 +149,8 @@ h2 {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 50px;
+    color: #E5E7EB;
 }
 
 .button-two {
@@ -158,8 +160,13 @@ h2 {
 .action {
     display: flex;
     flex-direction: column;
+    
 }
 
+h3 {
+    font-size: 24px;
+    font-weight: 400;
+}
 /* footer */
 
 footer {

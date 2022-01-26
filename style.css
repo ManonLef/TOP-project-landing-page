@@ -145,7 +145,19 @@ h2 {
 .blue-blob {
     background-color: #3882F6;
     margin: 75px 100px;
-    border-radius: 20px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button-two {
+    border: 2px solid white;
+}
+
+.action {
+    display: flex;
+    flex-direction: column;
 }
 
 /* footer */
